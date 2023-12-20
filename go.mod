@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/auth0/go-jwt-middleware/v2 v2.1.0
-	github.com/aws/aws-lambda-go v1.41.0
+	github.com/aws/aws-lambda-go v1.43.0
 	github.com/go-kit/log v0.2.1
 	golang.org/x/exp v0.0.0-20231127185646-65229373498e
 )
